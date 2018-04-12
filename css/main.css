@@ -36,15 +36,24 @@ html {
   border-bottom-color: #fff;
 }
 
+.nav a:focus {
+  outline: 3px solid #fff;
+}
+
 .banner {
   min-height: 16em;
   color: #fff;
+  background-color: #522806;
 }
 
 .card {
   min-height: 22em;
   border: .3rem solid #bea59b;
   border-radius: 4px;
+}
+
+.banner-content a:focus {
+  outline-color: #fff;
 }
 
 .btn-light {

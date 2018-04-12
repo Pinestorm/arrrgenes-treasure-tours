@@ -28,7 +28,7 @@ html {
 }
 
 .nav a span {
-  border-bottom: .3rem solid #bea59b;
+  border-bottom: .3rem solid
 }
 
 .nav a:hover span,
@@ -53,7 +53,7 @@ html {
 }
 
 .banner-content a:focus {
-  outline-color: #fff;
+  outline-color:
 }
 
 .btn-light {
